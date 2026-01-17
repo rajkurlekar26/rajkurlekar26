@@ -84,7 +84,8 @@ I enjoy turning messy data and complex workflows into fast, reliable products.
 - 🧠 **Brain Stroke Prediction using DNN**  
   Built a DNN classifier on **10,000 records** with **92% accuracy**, and achieved **10–15% higher** precision/recall vs LR/KNN/RF baselines.
 
-- 🩸 **Blood Bank Locator**  
+- 🩸 **Blood Bank Locator**
+  Built a web app that uses browser geolocation + reverse geocoding to show the user’s suburb and an interactive blood bank map.
   
 
 ---
