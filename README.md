@@ -4,14 +4,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/rajvardhan2611/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -19,7 +16,7 @@
 
 ## 👨‍💻 About Me
 I’m a Computer Science graduate student at **USC** who enjoys building clean, scalable software across **full-stack systems**, **data platforms**, and **ML applications**.  
-I care about measurable impact: performance, reliability, and great developer experience.
+I enjoy turning messy data and complex workflows into fast, reliable products.
 
 ---
 
@@ -80,7 +77,6 @@ I care about measurable impact: performance, reliability, and great developer ex
 ---
 
 ## 📌 Projects
-> (Pin your top 2 on your profile → **Customize your pins**)
 
 - 🎵 **Melody Generation using RNN & LSTM**  
   Trained an LSTM-based generator on **1700 German folk songs**, built a **Streamlit** UI, and generated **100+ MIDI sequences** with **<1s** prediction latency.
@@ -93,6 +89,3 @@ I care about measurable impact: performance, reliability, and great developer ex
 
 ---
 
-## 📫 Contact
-- Email: YOUR_EMAIL  
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
